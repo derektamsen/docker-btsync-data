@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+sudo docker run -v /data/btsync:/data --name btsync-data derektamsen/btsync-data
+
